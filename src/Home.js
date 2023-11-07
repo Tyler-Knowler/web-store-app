@@ -8,7 +8,7 @@ function Home() {
     <React.StrictMode>
       <div className='main-div'>
         <section className='initialSection'>
-          <div>temp</div>aaa
+          <div>temp</div>
         </section>
       </div>
     </React.StrictMode>
